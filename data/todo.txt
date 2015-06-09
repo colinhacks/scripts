@@ -1,0 +1,31 @@
+
+- #todo #errand haircut
+- #todo #errandbuy food food at shaws
+- #todo #errand lotion
+- #todo #errand post-its
+- #todo Find seminars
+- #todo Matrix stuff
+- #todo Respond to starred emails
+- #todo Email Tancik, Ian, Priya, ZP about seminars 
+- #project #kickstarter 
+- #kickstarter kickstarter scraping: see recently finished projects
+- #todo populate content lists
+- #project Apply for Magic Leap
+- #project apply for Google Jump
+- #project apply for Project Tango
+- #kickstarter Kickstarter blurb Markov chain
+- #kickstarter Continue building general theory of kickstarters
+- #project Learn fundamentals of Oculus Development
+- #project #salon New Twenty (n20)
+- #salon think about event planning
+- #salon think about who to involve
+- #todo Look into Jim Collins project
+- #todo email prof about magnetic levitation at a distance
+- #todo move ideas into workflowy or fetchnotes
+- #todo organize ideas doc
+- #project #automator Life automator: content aggegator, personal project management, to-do
+- #project #founder Foundr: startup themed boardgame
+- #founder record audio for video
+- #founder look for stock footage
+- #founder software for sweeping views of game board
+- #todo Add to wisdom:  Petrified wood story to wisdom,  Zappos and the offer,  George Bernard Shaw quote,  Relationship framework: us versus them, loved one, authority figure, collaborative,  Also add cobra effect: perverse incentives

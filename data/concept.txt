@@ -1,0 +1,216 @@
+- Multipath routing
+- Center for Adaptive and special technology
+- Stem cell differentiation
+- Network Motif (wiki)
+- Models of computation: http://en.wikipedia.org/wiki/Theory_of_computation#Models_of_computation
+- Switched cap converters
+- Resonant converter
+- Dialogue design
+- Wicked problems
+- fine needle aspiration
+- Dx/Tx/Rx
+- surface plasmon resonance
+- Morphological analysis
+- Sodini
+- Jeff lang, kirtley
+- Lord Kelvin
+- stellarator
+- mirror configuratin
+- z-pinches
+- kolmogorov
+- crypumps
+- cyrokinetic equation
+- control mechanism: shear magnetic fields,
+- wave field accelerstors
+- landau damping
+- dense plasma focusers
+- Capsid
+- Virion
+- Tropism
+- Islet
+- Episome
+- Grey vs white matter
+- CNS
+- Intrathecal
+- Cytokines
+- sgrna
+- Homologous recombination
+- Crispr
+- Epo
+- Red blast cells
+- Gene switch
+- Tor
+- Ctl assay
+- Prophylaxis
+- Genentech
+- Recombinant DNa
+- Glucosorbisidase
+- monoclonal
+- Prions
+- Ion exchange
+- Perfusion culture
+- Single use manufacturing equipment
+- Systems engineering jargon
+- Study of organizations and groups jargon
+- cognitive load theory
+- Autonomic computing
+- Reversible logic
+- Cyclomatic complexity
+- Gary shaw
+- Carver mead analog ics
+- FET sensing
+- Oxford nano probe
+- Mass spectrometry
+- Pericrine
+- Cell biology: why isn't microfluidics being used?
+- Agent based modeling
+- Ioannidis paper: why most medical hypotheses are false
+- Genetic algorithms + tools 
+- model-based machine learning
+- Hydrogel networks, lab chip 2014
+- Oncolytic immunotherapy
+- Recombinant DNa
+- Glucosorbisidase
+- monoclonal
+- Prions
+- Ion exchange
+- Perfusion culture
+- Single use manufacturing equipment
+- Flow batteries
+- Alginet
+- Dopamine/neurotransmitter breakdown
+- Hydrodynamic focusing on a silicon chip (knight)
+- Kalman Filter
+- Weiner Filter
+- Norbert Weiner
+- Neuromorphic computing
+- RTOS
+- power electronics: types of converters
+- Crispr/cas9
+- zinc fingers
+- photosensitive gene regulation
+- cavity optomechanics
+- laser cooling
+- optical tweezing
+- frequency cooling
+- optical ring resonators
+- spintronics basics
+- alternative computational substrates
+- shape memory polymers
+- new circuit elements, way of characterizing circuit elements
+- solid oxide fuel cells
+- electrochemical cells
+- stochastic boltzman equations of chemistry
+- Grameene bank
+- swirl injector
+- Quantum dots
+- self healing materials
+- thermal drift
+- actuating transducer
+- ka-band
+- phase and group refractive index
+- vacuum arc remelting
+- measuring magnetic fields with high precision
+- biot-savart vs maxwell-ampere
+- diamond coatings/diamondoid
+- differential scanning calorimetry
+- chemisorption
+- thermogravimetric analysis
+- drug discovery process
+- drug discovery technology
+- drug discovery bottlenecks
+- gas mass transfer
+- broad area laser diode arrays
+- laser diodes
+- laser femtosecond pulses
+- infinity light path
+- mesofluidics
+- electrochromatic materials
+- order parameter
+- Amplitude modulate with light: http://www-mtl.mit.edu/users/alamo/pdf/1990/RJ-31.pdf
+- Modular inorganic nano composites: http://www2.lbl.gov/tt/techs/lbnl2749.html
+- bath cryostat
+- live data streams over the internet for analysis, realtime processing
+- broadband gel/equivalent ruled/holographic ratings
+- ion mobility spectrometry (IMS) and ultra-fast quadrupole time-of-flight mass spectrometry
+- chromatography and phospholipids
+- sample preparation: frit, protein precipitation,
+- pre-concetrators
+- hydride generation and gas chromatography
+- photoionization detector
+- thermal desorption
+- proton exchange membrane
+- gasification
+- large scale WiFi networks: do they need optical fibers?
+- Li-ion batteries
+- mesoporous
+- thermal runaway during accelerated rate calorimeter
+- optical amplifiers
+- mantevo.org
+- buffer layers
+- GaAs
+- paint hiding
+- TiO2 in paints
+- paint scattering
+- metal-ligand complexation
+- SQUID magnetometry
+- material properties: critical field, critical current
+- diluted metal
+- double fishnet negative index
+- optofluidics
+- beta cell
+- ECM
+- hepatocyte
+- drug screening
+- micromolding
+- projection microstereolithography
+- integrins
+- coacervation
+- micelles
+- lignocellulosic biomass
+- fast pyrolysis
+- thermo-optics
+- nanoindentation
+- thermal conductivity of diamond
+- thermal conductivity in stretch materials
+- LIF spectroscopy
+- fiberoptic Y configuration
+- immunomagnetic beads
+- photoelastic modualtor
+- polarimetry
+- thermolytic salts
+- forward osmosis
+- DDR camera
+- SLR camera
+- butanol
+- ITRI
+- ABE fermentation
+- hydrolysis
+- fermentation
+- frequency multiplexing
+- wifi vs wimax
+- zigbee vs BT
+- strain based design
+- source measure unit
+- electrochromatic
+- transition metals
+- USW coating
+- MRI
+- CT
+- surface plasmon polariton
+- AFM
+- spectrometry
+- lithium ion batteries
+- TEM
+- plasma transfer
+- arc melding
+- radial winding
+- charge pump
+- voltage multiplier
+- kite pattern stator
+- emissivity
+- photo acoustic bomb detection
+- photoacoustics
+- two-photon interference
+- laser vibrometry
+- SKS

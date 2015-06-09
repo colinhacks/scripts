@@ -1,0 +1,33 @@
+- CMOS alternatives
+- Shortage of tech talent worldwide
+- Separation of stem cells from fat without enzymes
+- Waste of natural resources in landfills
+- The lives of miners are terrible
+- Lack of “exponentially scaling” clean energy supply
+  - #energy #storage low density for motive applications
+  - #energy #storage grid-level storage nowhere near cost effective
+  - #energy #storage improving battery life for electronics is huge
+  - #energy #storage super low power batteries for sensors
+  - #energy #storage Most large robots need grid elec 
+- Water shortages: cheap, efficient desalination
+- Low penetration of variable frequency drives into big industry
+- People suffering acute injury on the job
+- High infant mortality rates in middle- and low-income countries, (20% in subsaharan africa)
+- Payback paradox: CAPEX drives decisions instead of OPEX http://www.chemicalprocessing.com/articles/2005/489/?page=1
+- High freq trading places undercutting mutual funds
+- MEDICARE:  penalty for hospitals that readmit patients after hip replacement
+- Lab errors happen during pre and post analytic steps (less attention is paid to these in literature) --  Identify trends?
+- At micron scale, viscous damping makes fluid mixing very hard, and molecular diffusion is too slow, so mixing times are very poor.  At larger scales mixing is stronger, and at nano scales diffusion is fast
+- Why is Contact angle saturation in electrowetting not correlated with any materials properties
+- IEDs not solved: vests, and even worse car bombs
+- Augmented reality
+- No way yet to generate a strong neutron beam source
+- 90% of population lives within reach of a cellular data network.  But only a third are connected.  What is the service that brings the rest online?
+- Microfluidics for: diagnosing diseases from biopsy or blood or saliva or urine, especially in developing world.  ex: lassa fever
+- Reimbursement takes 8-10 weeks?!  WTF?
+- Any device that takes in a blood sample through a port is liable to be targeted by immune system: tissue will build up around input port.  
+- Difficulty in exposing a blood sample to enough surface area of antibodies.  Must use chaotic flow to keep cancer cells from “hiding behind” red blood cells
+- Solar cells degrade quickly in dusty conditions (2%/day) so saharan solar power is hard to implement
+- Thermal analyses of electronic systems is often done too late
+- Smog in industrializing countries
+- People aren't happy: they're lonely, depressed, hate their jobs, have rebellious kids

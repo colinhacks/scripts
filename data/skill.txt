@@ -1,0 +1,11 @@
+- Electronics (practical electronics)
+- PCB design
+- CAD software 
+- FEM software
+- Wolfram language
+- Deep learning API/implementation
+- Machine learning with the bigml 
+- Machining techniques
+- Visual frameworks for web
+- Mobile development frameworks: easy wysiwyg
+- Hidden Markov model implementation

@@ -1,0 +1,18 @@
+- Biomolecular feedback systems: http://www.cds.caltech.edu/~murray/BFSwiki/index.php/Main_Page
+- A First Course in String Theory
+- Textbook on parallel computing
+- Deep learning and neural nets
+- Manufacturing
+- Soft robotic actuators
+- hololens display
+- Soar architecture
+- Swarm robotics
+- Computability/models of computation
+- Neuromorphic computing
+- Genetic engineering (delivery, editing)
+- Metabolomics
+- Virtual reality
+- Stem cells (neural)
+- Tissue engineering
+- Gene delivery review paper
+- Chaos (Maes' review paper)
